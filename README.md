@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho na área de Dados, Power BI & IA
 - 🌱 Estudando React, SQL e Python
-- 😄 Pronouns: Ele/Dele
+- 💻 Cursando Engenharia de Software
 
 
 <div style="display: inline_block"><br>
