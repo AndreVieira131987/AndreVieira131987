@@ -1,17 +1,25 @@
 # Olá, eu sou o Andre Vieira! 👋
 
-### Analista de BI | Desenvolvedor de Software | Estudante de Engenharia de Software
+### BI Analyst | AI Engineer | Full Stack Developer
 
-Sou um entusiasta de tecnologia focado em transformar dados em decisões estratégicas e construir aplicações modernas. Atualmente, busco unir o poder do Business Intelligence com o desenvolvimento Full Stack e Inteligência Artificial.
+Atualmente focado na convergência entre **Dados, Desenvolvimento Web e Inteligência Artificial**. Especialista na criação de dashboards estratégicos e no desenvolvimento de agentes inteligentes para automação de processos.
 
-- 🔭 Atualmente trabalhando na área de **Dados e BI**.
-- 🎓 Cursando **Engenharia de Software** (Prev. 2027).
-- 🚀 Desenvolvendo projetos com **React, Node.js e integrações de IA**.
-- 📍 Curitiba, PR - Brasil.
+- 🤖 Criando e integrando **Agentes de IA** em fluxos de trabalho.
+- 🚀 Construindo aplicações de dados com **Streamlit e LangChain**.
+- ⚙️ Automatizando processos complexos via **n8n**.
+- 🎓 Cursando Engenharia de Software (Prev. 2027).
 
 ---
 
-### 🛠️ Stack Tecnológica
+### 🛠️ Minha Stack Tecnológica
+
+#### **Inteligência Artificial & Automação**
+<div style="display: inline-block">
+  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+</div>
 
 #### **Dados & Business Intelligence**
 <div style="display: inline-block">
@@ -19,21 +27,19 @@ Sou um entusiasta de tecnologia focado em transformar dados em decisões estrat�
   <img src="https://img.shields.io/badge/SQL_Server-CC0000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 </div>
 
-#### **Desenvolvimento Web & Ferramentas**
+#### **Desenvolvimento Web**
 <div style="display: inline-block">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreVieira131987&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -42,7 +48,7 @@ Sou um entusiasta de tecnologia focado em transformar dados em decisões estrat�
 
 ---
 
-### 📫 Vamos nos conectar!
+### 📫 Conecte-se comigo!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/andre-vieira-81192b264/" target="_blank">
