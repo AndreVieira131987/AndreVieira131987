@@ -24,7 +24,6 @@ Atualmente focado na convergÃªncia entre **Dados, Desenvolvimento Web e InteligÃ
 #### **Dados & Business Intelligence**
 <div style="display: inline-block">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/SQL_Server-CC0000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
